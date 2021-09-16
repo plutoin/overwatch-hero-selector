@@ -6,9 +6,9 @@
 
 [Open Page](https://plutoin.github.io/overwatch-hero-selector/)
 
-<img width="1332" alt="스크린샷 2021-07-26 16 23 55" src="https://user-images.githubusercontent.com/66389585/126952094-ef8c3468-8fce-4bea-ac45-784e47a68a58.gif">
-
 ## SCSS Refactoring
 - [refactoring-scss branch](https://github.com/plutoin/overwatch-hero-selector/tree/refactoring-scss)
 
 - [Wiki](https://github.com/plutoin/overwatch-hero-selector/wiki)
+
+<img width="1332" alt="스크린샷 2021-07-26 16 23 55" src="https://user-images.githubusercontent.com/66389585/126952094-ef8c3468-8fce-4bea-ac45-784e47a68a58.gif">
